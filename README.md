@@ -10,7 +10,9 @@ Coordinates Jr.  Tired of guessing your mouse position?  Coordinates Jr. is the 
 
 [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[License](https://img.shields.io/badge/license-MIT-green)
+[License](https://img.shields.io/badge/license-MIT-red)
+
+<video src="https://github.com/FeriosJr/Coordenadas-Jr/blob/main/InShot_20261002_012551738.mp4" controls width="600"></video>
 
 **Coordinates Jr.** is a program I developed so that programmers who automate tasks don't waste time looking up the mouse's X and Y coordinates.
 
