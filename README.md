@@ -14,7 +14,7 @@ Coordinates Jr.  Tired of guessing your mouse position?  Coordinates Jr. is the 
 
 ``demonstration video:``
 
-https://github.com/FeriosJr/Coordenadas-Jr/blob/main/InShot_20261002_012551738.mp4
+[https://github.com/FeriosJr/Coordenadas-Jr/blob/main/InShot_20261002_012551738.mp4](https://github.com/user-attachments/assets/3acee952-4ca9-4e06-b283-fe3d431eb607)
 
 **Coordinates Jr.** is a program I developed so that programmers who automate tasks don't waste time looking up the mouse's X and Y coordinates.
 
