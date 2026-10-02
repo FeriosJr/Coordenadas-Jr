@@ -1,6 +1,8 @@
 # Coordenadas-Jr
 Coordinates Jr.  Tired of guessing your mouse position?  Coordinates Jr. is the ultimate tool I built for programmers who automate. Stop wasting time hunting for X and Y coordinates. Just press the SPACEBAR and instantly get the exact coordinates of your cursor.  Fast. Simple. Essential💣
 
+<img width="720" height="957" alt="Polish_20261002_000345639" src="https://github.com/user-attachments/assets/ed1d5a4d-2ad2-4cce-8dc0-38b75850e78d" />
+
 ---------------------------------------------
 
 # 📍 Coordinates Jr.
